@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\bin\Debug\netcoreapp2.0\WebPowerHouseFitness.deps.json
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\bin\Debug\netcoreapp2.0\WebPowerHouseFitness.runtimeconfig.json
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\bin\Debug\netcoreapp2.0\WebPowerHouseFitness.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\bin\Debug\netcoreapp2.0\WebPowerHouseFitness.dll
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\bin\Debug\netcoreapp2.0\WebPowerHouseFitness.pdb
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.AssemblyInfo.cs
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.dll
+C:\Users\kevin\source\repos\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.pdb
