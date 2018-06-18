@@ -38,7 +38,7 @@ namespace WebPowerHouseFitness
 
             services.AddMvc();
 
-
+/*
             // Use SQL Database if in Azure, otherwise, use SQLite
             if (Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") == "Production")
                 services.AddDbContext<MyDatabaseContext>(options =>
@@ -48,7 +48,7 @@ namespace WebPowerHouseFitness
                         options.UseSqlite("Data Source=localdatabase.db"));
 
             // Automatically perform database migration
-            services.BuildServiceProvider().GetService<MyDatabaseContext>().Database.Migrate();
+            services.BuildServiceProvider().GetService<MyDatabaseContext>().Database.Migrate();*/
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
