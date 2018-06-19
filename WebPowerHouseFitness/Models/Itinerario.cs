@@ -9,6 +9,7 @@ namespace WebPowerHouseFitness.Models
     {
         public int ID { get; set; }
         public DateTime Fecha { get; set; }
+
          
     }
 }

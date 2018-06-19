@@ -21,3 +21,4 @@ C:\Users\kevin\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0
 C:\Users\kevin\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.AssemblyInfo.cs
 C:\Users\kevin\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.dll
 C:\Users\kevin\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.pdb
+C:\Users\kevin\WebPowerHouseFitness\WebPowerHouseFitness\obj\Debug\netcoreapp2.0\WebPowerHouseFitness.csprojAssemblyReference.cache
